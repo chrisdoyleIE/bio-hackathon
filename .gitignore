@@ -1,0 +1,16 @@
+**/.venv*/
+**/__pycache__/
+**/.pytest_cache/
+**/.ruff_cache/
+**/.DS_Store
+**/node_modules/
+**/dist/
+**/build/
+**/*.egg-info/
+**/.env
+**/.env.*
+!**/.env.example
+!biocompute-outlier-labs/.env
+*.h5
+*.hdf5
+*.log
