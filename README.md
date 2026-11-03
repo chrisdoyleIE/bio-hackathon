@@ -7,7 +7,7 @@ Shared workspace for exploring neural habituation and anomaly detection.
 Install [uv](https://docs.astral.sh/uv/), then:
 
 ```bash
-git clone https://github.com/cpdoyle-pl/bio-hackathon.git
+git clone https://github.com/chrisdoyleIE/bio-hackathon.git
 cd bio-hackathon/biocompute-outlier-labs
 uv sync
 uv run python experiments/example1.py
